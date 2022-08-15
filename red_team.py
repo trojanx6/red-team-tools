@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# -*- coding: encoding -*- 
+
 # modulleri indirme kismi 
 try:
     import requests as req 
