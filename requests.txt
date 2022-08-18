@@ -1,1 +1,4 @@
-jsonhashlibrequestsstegcrackerpyfiglet
+json
+hashlib
+requests
+stegcracker
