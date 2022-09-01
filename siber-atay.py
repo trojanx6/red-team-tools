@@ -1126,7 +1126,7 @@ def sifrleme():
     
     """)
     
-    print(soru =: input("secim: "))
+    soru = input("secim: ")
     def dosya_enc():
         key3 = Fernet.generate_key()
         fer3 = Fernet(key3)
