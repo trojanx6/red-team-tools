@@ -1,4 +1,13 @@
-json
-hashlib
-requests
-stegcracker
+apt install netcat
+apt-get install steghide -y 
+apt-get install exiftool
+apt-get install steghide -y
+apt-get install stegcracker
+pip install stegcracker
+pip install json
+pip install hashlib
+pip install requests
+pip install subprocess
+pip install bs4
+pip install beautifulsoup4 
+pip install cryptography
